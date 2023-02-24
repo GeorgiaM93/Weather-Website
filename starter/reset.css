@@ -1,0 +1,12 @@
+ body {
+     background-color: white;
+     font-family: 'Arial';
+ }
+
+ header {
+     background-image: linear-gradient(rgb(235, 192, 51), rgb(239, 20, 20));
+ }
+
+ #search-form {
+     border-bottom: 2px black solid;
+ }
